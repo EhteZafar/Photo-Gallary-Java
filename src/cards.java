@@ -14,8 +14,7 @@ import java.io.IOException;
 public class cards extends JFrame  {
 	private int currCard = 1;
 	private CardLayout layout;
-	int c1_l =0, c2_l =0, c3_l =0, c4_l =0; 
-	int c1_d =0, c2_d =0, c3_d =0, c4_d =0; 
+	
 	
 	
 	
